@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D22D-A682
+
+ Directory of C:\Users\Ankit\Desktop\My project
+
+03/10/2018  01:49 PM    <DIR>          .
+03/10/2018  01:49 PM    <DIR>          ..
+03/10/2018  12:44 PM               408 index.html
+03/10/2018  12:43 PM                 7 test1.txt
+03/10/2018  01:21 PM                 5 test2.txt
+03/10/2018  01:49 PM                 0 test3.txt
+               4 File(s)            420 bytes
+               2 Dir(s)   5,301,616,640 bytes free
